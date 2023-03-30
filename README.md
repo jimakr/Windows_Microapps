@@ -4,17 +4,7 @@
 
 > also adding functionality to the system
 
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
----
-
 ## Table of Contents
-
-> If you're `README` has a lot of info, section headers might be nice.
 
 - [Installation](#installation)
 - [Diakrita](#diakrita) discrete mathematics
@@ -22,7 +12,6 @@
 - [Iconizer](#iconizer) easy folder icon replace
 - [Transparent](#transparent) make windows transparent for themes
 - [Contributing](#contributing)
-
 
 
 ## Installation
